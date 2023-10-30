@@ -16,7 +16,7 @@ For building and running the application you need:
 ## Running the application locally
 
 There are several ways to run a Spring Boot application on your local machine. One way is to execute the `main` method
-in the `com.tcs.training.orderProductMap.DiscoveryService` class from your IDE.
+in the `com.tcs.training.discovery.DiscoveryService` class from your IDE.
 
 Alternatively you can use
 the [Spring Boot Maven plugin](https://docs.spring.io/spring-boot/docs/current/reference/html/build-tool-plugins-maven-plugin.html)
@@ -30,21 +30,9 @@ mvn spring-boot:run
 
 ### Base Url
 
-http://localhost:8889/authors
+http://localhost:8762/
 
-### Swagger UI
-
-http://localhost:8889/swagger-ui/index.html
-
-## Application endpoints:
-
-* Retrieve all authors: ```GET /api/authors```
-* Get an user by ID: ```GET /api/authors/{id}```
-* Add a new user: ```POST /api/authors```
-* Update an user: ```PUT /api/authors/{id}```
-* Delete an user: ```DELETE /api/authors/{id}```
-
-## API Test Client
+All registered Eureka clients will appear on the above link.
 
 ## Copyright
 
