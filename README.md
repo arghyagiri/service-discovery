@@ -1,4 +1,6 @@
-# Author Service
+# Service Discovery powered by Eureka
+
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=arghyagiri_service-discovery)](https://sonarcloud.io/summary/new_code?id=arghyagiri_service-discovery)
 
 [![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
 
