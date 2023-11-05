@@ -11,7 +11,7 @@
     <groupId>com.tcs.training.ms</groupId>
     <artifactId>discovery-service</artifactId>
     <version>1.0.0-SNAPSHOT</version>
-    <name>ms</name>
+    <name>discovery-service</name>
     <description>Discovery Service</description>
     <properties>
         <java.version>17</java.version>
